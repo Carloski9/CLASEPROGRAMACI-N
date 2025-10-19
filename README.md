@@ -5,5 +5,5 @@ este cambio es de otro compañero
 
 La Sandra es un monardo muy lindo
 
-Sandra es preciosa pero no entiende esto
+Sandra es preciosa pero no entiende esto. Es muy guapa
 
